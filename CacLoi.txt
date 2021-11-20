@@ -1,0 +1,5 @@
+Mục slide trên trang sản phẩm ko hiện
+Chưa thanh toán được
+Mục xem hóa đơn ko hiện
+Xóa sản phẩm ko đc
+CSS ở phần tin tức, liên hệ và giỏ trên host ảo bị lỗi
